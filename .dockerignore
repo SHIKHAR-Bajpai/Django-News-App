@@ -1,0 +1,10 @@
+v/
+newsapp/__pycache__/
+news/__pycache__/
+
+*.env
+*.sqlite3
+*.db
+
+.git
+
